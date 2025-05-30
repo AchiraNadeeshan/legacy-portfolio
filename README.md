@@ -6,13 +6,13 @@ This repository contains the **previous version** of my personal portfolio websi
 
 > ⚠️ **Note:** Some personal information and claims on this site are fictional, created purely for the context of the academic project.
 
-<br>
+
 
 ### 📸 Screenshot
 
 ![Screenshot of Legacy Portfolio](./screenshot.png)
 
-<br>
+
 
 ## 🧾 About This Version
 
@@ -21,7 +21,7 @@ This version was created:
 - Without any external frameworks or libraries
 - With a functional contact form that stores submissions to Google Sheets via Apps Script
 
-<br>
+
 
 ## ⚙️ Technologies Used
 
@@ -31,18 +31,18 @@ This version was created:
 - **GitHub Pages** (for static site hosting)
 - **Google Sheets + Google Apps Script** (for the contact form)
 
-<br>
+
 
 ## 📬 Contact Form Integration
 
 The contact form uses a **Google Apps Script Web App** to submit responses directly into a Google Sheet.
 
-<br>
+
 
 ### 🔗 Output Google Sheet
 [View Submission Sheet](https://docs.google.com/spreadsheets/d/1d0KB9SoDvNAvHcq305uLKrWmFNuhFgvW-GWPw1_DNT4/edit?usp=sharing)
 
-<br>
+
 
 ### 📄 Google Apps Script Code (Server-side)
 Deploy your own AppsScript using the following code.
@@ -88,7 +88,7 @@ function doPost (e) {
   }
 }
 ```
-<br>
+
 
 ### 🔗 Web App Endpoint (used in `index.html`)
 Make sure to replace the placeholder with your own Google Apps Script deployment URL:
@@ -100,14 +100,14 @@ Make sure to replace the placeholder with your own Google Apps Script deployment
 </script>
 ```
 
-<br>
+
 
 ## 🚀 What's Next?
 
 Check out the new and improved portfolio:  
 👉 [https://achiranadeeshan.github.io](https://achiranadeeshan.github.io)
 
-<br>
+
 
 ## 📜 License
 
