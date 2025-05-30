@@ -8,6 +8,9 @@ This repository contains the **previous version** of my personal portfolio websi
 
 
 
+### 📸 Screenshot
+
+![Screenshot of Legacy Portfolio](./screenshot.png)
 
 
 
